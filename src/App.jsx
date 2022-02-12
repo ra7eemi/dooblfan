@@ -1,9 +1,9 @@
-import Navbar from './components/Navbar';
+import Hero from './components/Hero';
 
 function App() {
   return (
-    <div className="flex">
-      <Navbar />
+    <div className="flex">      
+      <Hero />
     </div>
   );
 }
